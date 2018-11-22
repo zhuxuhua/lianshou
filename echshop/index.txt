@@ -1,6 +1,0 @@
-hello git
-git wrold
-lianshou
-if else 
-swich
-no password
